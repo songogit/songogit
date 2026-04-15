@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there, I'm Antonis 👋
 
-<!--
-**songogit/songogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Young developer, focused on building useful apps.
 
-Here are some ideas to get you started:
+- 📱 Working with React Native (Expo)
+- 🚀 Built and published an app on Google Play
+- 🎨 Interested in UI/UX design
+- 🧠 Constantly learning and experimenting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools:
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
