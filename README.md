@@ -2,11 +2,12 @@
 
 Young developer, focused on building useful apps.
 
-- 📱 Working with React Native (Expo)
-- 🚀 Built and published an app on Google Play
-- 🌐 Web development with modern JavaScript/TypeScript stacks
-- 🎨 Interested in UI/UX design
-- 🧠 Constantly learning and experimenting
+Skills:
+- 🎨 Creating UI/UX designs
+- 📱 Working with React Native (Expo) for mobile (android) and web development
+  
+Projects:
+- 🚀 Built and published an app on Google Play (eledview)
 
 ## 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,androidstudio,vscode,github,git,figma)](https://skillicons.dev)
