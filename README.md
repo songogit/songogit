@@ -8,4 +8,4 @@ Young developer, focused on building useful apps.
 - 🧠 Constantly learning and experimenting
 
 ## 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,ts,androidstudio,figma,vscode,github,git,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,androidstudio,vscode,github,git,figma)](https://skillicons.dev)
