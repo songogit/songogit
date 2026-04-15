@@ -4,6 +4,7 @@ Young developer, focused on building useful apps.
 
 - 📱 Working with React Native (Expo)
 - 🚀 Built and published an app on Google Play
+- 🌐 Web development with modern JavaScript/TypeScript stacks
 - 🎨 Interested in UI/UX design
 - 🧠 Constantly learning and experimenting
 
