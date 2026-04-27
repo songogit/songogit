@@ -1,6 +1,6 @@
 # Hey there, I'm Antonis 👋
 
-Young developer, focused on building useful apps.
+Young hobbyist developer, focused on building useful apps.
 
 Skills:
 - 🎨 Creating UI/UX designs
